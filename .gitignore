@@ -1,0 +1,22 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# Temp files
+*.tmp
+*.bak
