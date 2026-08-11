@@ -1,4 +1,4 @@
-# 💝 Will You Be My Valentine? (2026 Coquette Edition)
+# 💝 Will You Be Mine Forever? (2026 Coquette Edition)
 
 ### *A viral, interactive proposal website with the infinite "Yes" button glitch.* 🎀
 
