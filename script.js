@@ -1,19 +1,19 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Pookie please...",
+    "Bebuu please...",
     "Don't do this to me :(",
-    "I will buy you sweet treats! 🍫",
-    "I'll give you my hoodie!",
-    "I'll even let you win in games!",
-    "If you say no, I'm gonna be cooked...",
-    "I'll just stare at the ceiling...",
-    "I will be very very sad...",
-    "I'm literally crying rn...",
-    "My heart is breaking... 💔",
-    "Pretty please with a cherry on top? 🍒",
+    "Iki-kiss kita super dami! 😳",
+    "aba ayaw ah!",
+    "you don't love me anymore?!",
+    "kapag nag mo ka, I'm gonna cry",
+    "sige, hayaan mo na lang ako dito sa gilid...",
+    "huhuhu imma cry....",
+    "sinaktan mo hart ko...",
+    "ayaw talaga ah... 💔",
+    "Pretty please Alondre ko? 🍒",
     "Ok fine, I will stop asking...",
-    "Just kidding, SAY YES POOKIE! ❤️"
+    "Just kidding, MAG YES KANA! ❤️"
 ];
 let messageIndex = 0;
 
